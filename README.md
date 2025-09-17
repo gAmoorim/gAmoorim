@@ -28,7 +28,7 @@ Bem vindo ao meu perfil do GitHub.
     title="Express"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"     
 />
 <img 
     align="left" 
