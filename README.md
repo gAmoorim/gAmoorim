@@ -1,11 +1,10 @@
-# 👩🏻‍💻 Gabriel Amorim
+# Gabriel Amorim
 
 Bem vindo ao meu perfil do GitHub.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 
 <img 
     align="left" 
