@@ -82,6 +82,7 @@
 
 ### 📊 Estatísticas
 
+<div style="display: flex;">
 <p>
   <img 
     alt="GitHub Stats" 
@@ -96,6 +97,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gAmoorim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
  />
 </p>
+</div>
 
 ## Contatos
 
