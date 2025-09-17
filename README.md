@@ -84,7 +84,6 @@
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -92,7 +91,6 @@
   />
 
  <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gAmoorim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
@@ -103,8 +101,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/gabriel-amorim-609211304" 
-    target="_blank"><img 
-    loading="lazy" 
+    target="_blank"><img loading="lazy" 
     src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     target="_blank">
 </a>
