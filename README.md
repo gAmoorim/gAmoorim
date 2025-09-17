@@ -67,7 +67,7 @@
 
 ---
 
-## Banco de dados
+### Banco de dados
 
 <img 
     align="left" 
@@ -77,8 +77,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
-
----
 
 ### 📊 Estatísticas
 
