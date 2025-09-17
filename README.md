@@ -1,6 +1,6 @@
 # Gabriel Amorim
 
-Bem vindo ao meu perfil do GitHub.
+## Bem vindo ao meu perfil do GitHub.
 
 ---
 
@@ -67,7 +67,7 @@ Bem vindo ao meu perfil do GitHub.
 
 ---
 
-### Banco de dados
+## Banco de dados
 
 <img 
     align="left" 
