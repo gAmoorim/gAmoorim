@@ -77,7 +77,7 @@ Bem vindo ao meu perfil do GitHub.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
-          
+
 ---
 
 ### 📊 Estatísticas
