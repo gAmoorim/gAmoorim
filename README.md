@@ -4,7 +4,7 @@ Bem vindo ao meu perfil do GitHub.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
