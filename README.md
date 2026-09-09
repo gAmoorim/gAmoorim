@@ -71,12 +71,12 @@ Desenvolvedor Back-end focado em Node.js, APIs REST e PostgreSQL. Construo aplic
     <div align="center">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=gAmoorim&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=gAmoorim&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gAmoorim&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gAmoorim&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
       />
     </div>
 </p>
